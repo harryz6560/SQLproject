@@ -1,4 +1,4 @@
-# SQLproject
+# Movie Database Management System
 
 The SQL project allows the user to manage and organize a movie database. It provides features for searching, entering, and saving information about movies and their crew members. The user can categorize the movies into different genres and store relevant details such as title, release date, and cast. The project also enables the user to add and save the names and roles of the crew members associated with each movie as well as search users. The project is implemented using the Python programming language and makes use of SQL to store and retrieve data from the database.
 
